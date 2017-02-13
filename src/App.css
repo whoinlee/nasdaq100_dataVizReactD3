@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.Chart-holder {
+  background-color: #fff;
+  width: 1015px;
+  padding: 15px;
+  color: black;
+  /*border: black solid 1px;*/
+  position: relative;
+  margin: 0px auto;
+}
+
+.Chart-title {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  text-align: left;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+}
